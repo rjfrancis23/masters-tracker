@@ -1,5 +1,5 @@
 # masters-tracker
-Tracking the annual Masters Tournament! ⛳️
+Tracking the annual Masters Tournament!! ⛳️
 
 ## Instructions for set-up: 
 
